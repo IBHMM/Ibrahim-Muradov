@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ibrahim
 - 👀 I’m interested in react projets
-- 🌱 I’m currently learning react & vue js
+- 🌱 I’m currently learning Vue.js, Golang, Gin, Docker ... 
 - 💫 I want to cooperate with companies in all creative projects 
 - 📫 How to reach me 077 325 69 75 | brhmmuradov@gmail.com
 - 😄 Pronouns: Ibrahim
